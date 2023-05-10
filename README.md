@@ -12,5 +12,5 @@ You can click the Preview link to take a look at your changes.
 
 Here's a summary of my career history 
 
-[![](h![image](https://github.com/RamiAlkhateeb/RamiAlkhateeb/assets/38619924/807dd2eb-f854-4349-a804-45e502a04995))](https://rami-alkhateeb.super.site/my-story-and-career-history)
+[![My career story from 2018 to now](https://rami-alkhateeb.super.site/_next/image?url=https%3A%2F%2Fassets.super.so%2F0cf6512f-b9b6-445f-9388-b24721ac076e%2Fimages%2F8d495797-7523-44a9-ab6c-1619ce011141%2FProfessional_profile_(4).png&w=1920&q=80)](https://rami-alkhateeb.super.site/my-story-and-career-history)
  
