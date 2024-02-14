@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RamiAlkhateeb
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning about data analysis and business intelligence 
+- 🌱 I’m currently learning about Data Analysis and Business Intelligence 
 - 💞️ I’m looking to collaborate on backend development projects
 - 📫 You can reach me on my email: rami13alkhateeb@gmail.com and find me on LinkedIn : www.linkedin.com/in/rami13alkhateeb and my personal blog : https://rami-alkhateeb.super.site/
 
