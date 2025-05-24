@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning about Go
 - 💞️ I’m looking to collaborate on backend development projects
-- 📫 You can reach me on my email: rami13alkhateeb@gmail.com and find me on LinkedIn : www.linkedin.com/in/rami13alkhateeb and my personal blog : [https://rami-alkhateeb.super.site/](https://medium.com/@rami-alkhateeb)
+- 📫 You can reach me on my email: rami13alkhateeb@gmail.com and find me on LinkedIn : www.linkedin.com/in/rami13alkhateeb and my personal blog : [https://medium.com/@rami-alkhateeb/](https://medium.com/@rami-alkhateeb)
 
 <!---
 RamiAlkhateeb/RamiAlkhateeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
