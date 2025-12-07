@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @RamiAlkhateeb<br>👀 I’m interested in software development<br>🌱 I’m currently learning about Go<br>💞️ I’m looking to collaborate on backend development projects<br>
+👋 Hi, I’m @RamiAlkhateeb<br>👀 I’m interested in software development<br>💞️ I’m looking to collaborate on backend development projects<br>
 
 
 ## 🌐 Socials:
