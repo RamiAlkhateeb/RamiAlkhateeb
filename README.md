@@ -52,7 +52,7 @@ I publish in two places depending on the audience:
 | Platform | Language | Topics |
 |----------|----------|--------|
 | [Substack](https://rami13kh.substack.com/) | English | Software engineering, career, AI tools |
-| [Portfolio](https://ramialkhateeb.github.io/Portfolio/) | Arabic | Interview prep, .NET, European job market |
+| [Portfolio](https://ramialkhateeb.github.io/) | Arabic | Interview prep, .NET, European job market |
 
 ---
 
