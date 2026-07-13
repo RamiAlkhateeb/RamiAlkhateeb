@@ -8,7 +8,7 @@ I build backend systems and write practical guides for developers navigating the
 
 ## What I'm working on
 
-- **[ramialkhateeb.github.io](https://ramialkhateeb.github.io/Portfolio/)** — Arabic-language guides and articles for developers targeting the European job market
+- **[ramialkhateeb.github.io](https://ramialkhateeb.github.io)** — Arabic-language guides and articles for developers targeting the European job market
 - **Practical guides on Payhip** — interview preparation, .NET architecture, building with AI tools
 - Writing on **[Substack](https://rami13kh.substack.com/)** in English about software engineering and career moves
 
@@ -16,7 +16,7 @@ I build backend systems and write practical guides for developers navigating the
 
 ## Background
 
-6+ years of .NET engineering across three countries and three different tech markets.  
+7+ years of .NET engineering across three countries and three different tech markets.  
 Also studied Decision Support Systems — economics, business processes, data analysis — which gives me an angle most pure-code writers don't have.
 
 The journey: Syria → UAE → Germany.  
