@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/rami-presenting.webp" alt="Rami Alkhateeb presenting “From Ideas to Working Projects”" width="720" />
+  <img src="assets/dev-process.svg" alt="Sketch of the development process — discover, plan, build, ship — above a keyboard" width="760" />
 </p>
 
 ---
