@@ -13,6 +13,10 @@
   <a href="mailto:rami13alkhateeb@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <img src="assets/dev-process.svg" alt="Sketch of the development process — discover, plan, build, ship — above a keyboard" width="760" />
+</p>
+
 ---
 
 ### About me
