@@ -2,12 +2,14 @@
 <h3 align="center">Senior Software Engineer — .NET · Azure · Microservices · AI-Assisted Engineering</h3>
 
 <p align="center">
-  8 years building and modernizing enterprise software across Germany, the UAE, and Syria.
+  <em>I turn hard business problems into software that ships.</em><br>
+  8 years · 3 countries · enterprise platforms serving 10M+ customers
 </p>
 
 <p align="center">
-  <a href="https://ramialkhateeb.github.io"><img src="https://img.shields.io/badge/Portfolio-ramialkhateeb.github.io-1F3864?style=flat-square" /></a>
+  <a href="https://ramialkhateeb.github.io"><img src="https://img.shields.io/badge/Portfolio-ramialkhateeb.github.io-d9581a?style=flat-square" /></a>
   <a href="https://linkedin.com/in/rami13alkhateeb"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://calendly.com/rami13alkhateeb/45min"><img src="https://img.shields.io/badge/Book%20a%20call-Calendly-d9581a?style=flat-square" /></a>
   <a href="mailto:rami13alkhateeb@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -22,14 +24,21 @@ I build production software that stays solid under real use — as comfortable i
 |  |  |  |
 |---|---|---|
 | **8** years experience | **~30** reusable UI/platform components | **5+** enterprise services modernized |
-| **10M+** telecom customers served | **4** enterprise Azure migrations | **~20%** performance improvement delivered |
+| **10M+** telecom customers served | **4** enterprise Azure projects | **~20%** performance improvement |
 
 ### What I do
 
 - **Software Engineering** — .NET, C#, ASP.NET Core, Angular, APIs, and databases
 - **Architecture & Cloud** — Microservices, Azure, distributed systems, integrations, and modernization
-- **Technical Leadership** — Code reviews, delivery planning, technical decisions, stakeholder collaboration
-- **AI-Assisted Engineering** — Claude Code and Codex for implementation, analysis, documentation, and governed delivery
+- **Technical Leadership** — Reviews, planning, technical decisions, and stakeholder collaboration
+- **AI-Assisted Engineering** — Codex and Claude Code for implementation, analysis, documentation, and controlled delivery
+
+---
+
+### What I build outside the day job
+
+- **[NxT7](https://ramialkhateeb.github.io/nxt7.html)** — my independent product studio: small, focused, Arabic-friendly apps built and shipped end to end (Carousel Engine, Syria FM, Makdous, Task Breaker)
+- **Courses** *(coming soon)* — hands-on courses for developers, from fundamentals to shipping real products with AI-assisted engineering
 
 ---
 
@@ -42,6 +51,8 @@ I build production software that stays solid under real use — as comfortable i
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+
+**Core expertise:** C# / .NET · ASP.NET Core · Angular · TypeScript · Azure · Microservices · SQL Server · PostgreSQL · Redis · RabbitMQ · Docker · CI/CD · xUnit · Angular Material · REST APIs · Clean Architecture
 
 **Also use**
 
@@ -80,5 +91,6 @@ Arabic (Native) · English (Full Professional) · German (B2)
   <em>Open to Senior Software Engineer / Tech Lead opportunities in Germany.</em><br>
   <a href="https://ramialkhateeb.github.io">Portfolio</a> ·
   <a href="https://linkedin.com/in/rami13alkhateeb">LinkedIn</a> ·
+  <a href="https://github.com/ramialkhateeb">GitHub</a> ·
   <a href="mailto:rami13alkhateeb@gmail.com">Email</a>
 </p>
