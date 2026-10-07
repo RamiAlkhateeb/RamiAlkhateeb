@@ -3,7 +3,7 @@
 
 <p align="center">
   <em>I turn hard business problems into software that ships.</em><br>
-  8 years · 3 countries · enterprise platforms serving 10M+ customers
+  8 years · 3 countries · enterprise platforms serving 6M+ customers
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@ I build production software that stays solid under real use — as comfortable i
 |  |  |  |
 |---|---|---|
 | **8** years experience | **~30** reusable UI/platform components | **5+** enterprise services modernized |
-| **10M+** telecom customers served | **4** enterprise Azure projects | **~20%** performance improvement |
+| **6M+** telecom customers served | **4** enterprise Azure projects | **~20%** performance improvement |
 
 ### What I do
 
